@@ -2,6 +2,10 @@
 
 공유받는 사람이 모바일과 데스크톱에서 보는 정적 여행 일정 웹페이지입니다.
 
+**바로 보기: https://ssapo.github.io/phuket-trip/**
+
+이 저장소는 위 웹페이지의 소스입니다. 화면은 `index.html` 한 파일로 만들어집니다(HTML·CSS·JS 인라인, 날짜별 일정은 `trip-data` JSON, 여정 지도는 인라인 SVG). main 브랜치에 푸시하면 GitHub Pages로 자동 배포됩니다.
+
 ## GitHub Pages 배포
 
 1. 여행 전용 저장소를 만들고 `index.html`과 이 문서를 기본 브랜치 루트에 업로드합니다.
